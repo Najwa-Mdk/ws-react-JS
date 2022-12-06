@@ -1,0 +1,39 @@
+.NavBars {
+      display: flex;
+      height:170px ; 
+      background-color: rgb(252, 198, 52);
+    
+    }
+
+.logo img {
+    width : 220px;
+    height : 120px;
+    margin-top: 20px;
+    margin-left: 180px;
+    }
+
+    .NavBars .brand  {
+      color :black;
+      font-size: 17px;
+      font-weight:400;
+    
+    }
+
+    .NavBars .links {
+      color :black;
+      font-size: 17px;
+      font-weight:400; 
+    }
+
+    .NavBars #basic-nav-dropdown {
+      color :black;
+      font-size: 17px;
+      font-weight:400;
+    }
+
+    .NavBars .items {
+      color :black;
+      font-size: 17px;
+      font-weight:400;
+      background-color: rgb(252, 198, 52);
+    }

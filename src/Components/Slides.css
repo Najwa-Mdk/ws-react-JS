@@ -1,0 +1,22 @@
+.Slide {
+    width : 1800px;  
+    height: 400px;
+    background-color: black;
+   
+}
+
+.picture {
+ width : 1000px;  
+ height: 400px;
+ align-items: center;
+ margin-right: 350px;
+ border-color: gray;
+ border:20px;
+}
+
+h3 {
+    padding-right: 700px;
+    margin-top: 3000px;
+    font-size: 20px;
+    font-weight: bold;
+}
